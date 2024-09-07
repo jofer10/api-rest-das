@@ -25,3 +25,4 @@ Eso hará que el proyecto se levante y pueda hacer uso de las APIs configuradas.
 - **Lazo Gamboa, Kristell del Rosario - U22244526**
 - **Leiva Collazos, Gian Franco - U21221380**
 - **Calderon Vertiz, Salvatore Henry - U18101732**
+- **Aquiño Guevara, Giancarlo - U20220629**
