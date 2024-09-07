@@ -1,0 +1,27 @@
+<div class="container mx-auto px-4">
+  <h1 class="text-2xl font-bold mt-6 mb-4 text-gray-900 mb-8">
+    ¿Qué operación quieres realizar?
+  </h1>
+  <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-6">
+    <div flex justify-start>
+      <button
+        (click)="habilitar(1)"
+        class="w-full rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 active:bg-indigo-600 focus:bg-indigo-600 focus:outline-none"
+        routerLink="/inicio/operacion"
+      >
+        ¿Buscar número mayor?
+      </button>
+    </div>
+    <div>
+      <button
+        (click)="habilitar(2)"
+        class="w-full rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 active:bg-indigo-600 focus:bg-indigo-600 focus:outline-none"
+        routerLink="/inicio/operacion1"
+      >
+        ¿Sumar 2 números?
+      </button>
+    </div>
+  </div>
+</div>
+
+<router-outlet></router-outlet>
