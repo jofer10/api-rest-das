@@ -22,6 +22,6 @@ Eso hará que el proyecto se levante y pueda hacer uso de las APIs configuradas.
 
 # ELABORADO POR EL GRUPO 2
 - **Galindo Bautista, Jorge Fernando José - U20221789**
-- **lAZO Gamboa, Kristell del Rosario - U22244526**
+- **Lazo Gamboa, Kristell del Rosario - U22244526**
 - **Leiva Collazos, Gian Franco - U21221380**
 - **Calderon Vertiz, Salvatore Henry - U18101732**
